@@ -1,0 +1,32 @@
+.carousel-item{
+    height: 70vh
+} 
+.carousel-item .element{
+    height: 70vh;
+}
+.ring {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.list-unstyled {
+    width: 85%;
+    margin: 0 auto;
+}
+.media img {
+    width: 500px;
+    height: 600px;
+}
+.media-body h1 {
+    font-size: 5rem;
+}
+.media-body {
+    height: 600px;
+}
+.media-body p {
+    line-height: 45px;
+}
+footer {
+   width: 85%; 
+   margin: 20px auto;
+}
